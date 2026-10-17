@@ -1,0 +1,26 @@
+# Build directories
+build/
+build_cmake/
+bin/
+obj/
+dist/
+
+# Object files & intermediate build artifacts
+*.o
+*.obj
+*.exp
+*.lib
+*.pdb
+*.ilk
+*.idb
+*.dll
+
+# Archive packages
+*.zip
+*.tar.gz
+
+# IDE and Editor files
+.vs/
+.vscode/
+*.vcxproj.user
+CMakeSettings.json
